@@ -1,0 +1,23 @@
+{
+  "name": "recaptchevade",
+  "version": "1.0.0",
+  "description": "Auto Solve Recaptchav2 with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Recaptcha",
+    "RecaptchaV2",
+    "captcha",
+    "puppeteer",
+    "puppeteer-core"
+  ],
+  "author": "Jamie Nichols",
+  "license": "ISC",
+  "dependencies": {
+    "@infosimples/node_two_captcha": "^1.0.2",
+    "puppeteer": "^5.2.1",
+    "puppeteer-core": "^5.2.1"
+  }
+}
