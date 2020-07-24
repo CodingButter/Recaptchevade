@@ -16,8 +16,6 @@
   "author": "Jamie Nichols",
   "license": "ISC",
   "dependencies": {
-    "@infosimples/node_two_captcha": "^1.0.2",
-    "puppeteer": "^5.2.1",
-    "puppeteer-core": "^5.2.1"
+    "@infosimples/node_two_captcha": "^1.0.2"
   }
 }
