@@ -15,7 +15,8 @@ const main = async () => {
   const page = await browser.newPage()
   await page.goto("https://www.google.com/recaptcha/api2/demo")
   await solveCaptcha(page, null, async (response) => {
-    console.log(response)
+    console.log(response);
+    document.querySelectore("#recaptcha-demo-submit").click();
   })
 }
 main()
