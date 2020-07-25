@@ -1,6 +1,6 @@
 {
   "name": "recaptchevade",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Auto Solve Recaptchav2 with puppeteer",
   "main": "index.js",
   "scripts": {
